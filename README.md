@@ -1,7 +1,9 @@
 <h1 align="center"> Oie! Eu sou a Valentina </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--End%20Developer-rosa?style=for-the-badge&color=ff5ea2">
+  <a href="#">
+    <img src="https://img.shields.io/badge/FRONT--END%20DEVELOPER-ff4da6?style=for-the-badge&logoColor=white" style="border-radius: 12px;">
+  </a>
 </p>
 
 ---
