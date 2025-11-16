@@ -19,14 +19,7 @@
 </h2>
 
 <!-- Animação (FUNCIONA no GitHub porque usa inline CSS) -->
-<p style="display:none;">
-  <style>
-    @keyframes fadeIn {
-      from { opacity: 0.2; }
-      to { opacity: 1; }
-    }
-  </style>
-</p>
+
 
 <p align="center">
   <a href="#">
