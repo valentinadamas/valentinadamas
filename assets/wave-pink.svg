@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none">
+  <defs>
+    <!-- Gradiente principal (rosa) -->
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#ff8dbf"/>
+      <stop offset="50%" stop-color="#ff5ea2"/>
+      <stop offset="100%" stop-color="#ff3a86"/>
+    </linearGradient>
+
+    <!-- Gradiente secundário (sombra para profundidade) -->
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#ffd7e8"/>
+      <stop offset="100%" stop-color="#ff9ac0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- fundo transparente (vai ficar bem em fundo preto) -->
+  <rect width="1440" height="320" fill="transparent"/>
+
+  <!-- Camada de trás: suave e clara -->
+  <path d="M0,160 C180,120 300,200 480,180 C660,160 820,80 1000,100 C1180,120 1320,200 1440,170 L1440,320 L0,320 Z"
+        fill="url(#g2)" opacity="0.55"/>
+
+  <!-- Camada do meio: ondulação maior -->
+  <path d="M0,180 C150,220 340,120 520,150 C700,180 820,260 1020,230 C1200,200 1320,130 1440,150 L1440,320 L0,320 Z"
+        fill="url(#g1)" opacity="0.95"/>
+
+  <!-- Camada da frente: detalhe brilhante -->
+  <path d="M0,200 C160,180 320,220 480,200 C640,180 800,140 960,160 C1120,180 1280,220 1440,200 L1440,320 L0,320 Z"
+        fill="#ffbfdc" opacity="0.35"/>
+</svg>
