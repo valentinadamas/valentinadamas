@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/FRONT--END%20DEVELOPER-ff4da6?style=for-the-badge&logoColor=white" style="border-radius: 12px;">
+    <img src="https://img.shields.io/badge/FRONT--END%20DEVELOPER-ff4da6?style=for-the-badge&logoColor=white" style="border-radius: 25px;">
   </a>
 </p>
 
