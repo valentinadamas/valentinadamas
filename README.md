@@ -1,7 +1,4 @@
-<!-- ONDAS ROSA TOPO -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/valentinadamas/valentinadamas/main/waves-pink.svg" width="100%" />
-</p>
+
 
 <!-- FONTE ANOS 2000 -->
 <link href="https://fonts.cdnfonts.com/css/vcr-osd-mono" rel="stylesheet">
